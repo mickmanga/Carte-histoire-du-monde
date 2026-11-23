@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Chronologique",
+  "description": "Carte interactive du monde et chronologie des principaux faits historiques pour l'intégralité des pays du monde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
